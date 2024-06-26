@@ -2,7 +2,7 @@
 
 ## About
 
-😎 Trusted engineer with 8+ years of experience in AI, Web & Blockchain.
+😎 Trusted engineer with 10+ years of experience in AI, Web & Blockchain.
 
 🔭 Spent multiple years building up several types of infrastructure for several organizations with combined experience in Blockchain, AI, and Web Backend & Frontend Development.
 
